@@ -1,0 +1,15 @@
+.main {
+    text-align: center;
+    background-color: aqua;
+}
+body {
+    margin: 15px 30px;
+    background-color: white;
+
+}
+cintainer {
+    padding: 20px;
+    background-color: blanchedalmond;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
